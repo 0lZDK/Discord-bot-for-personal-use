@@ -1,0 +1,17 @@
+#ENV plmds não envia isso
+.env
+
+#dependencias
+node_modules/
+
+#logs
+logs/
+*.log
+npm-debug.log*
+
+#vscode
+.vscode/
+
+#System files
+.DS_Store
+Thumbs.db
